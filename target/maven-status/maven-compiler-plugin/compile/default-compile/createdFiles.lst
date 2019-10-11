@@ -1,0 +1,17 @@
+zuul/operator/basic/QUIToperator.class
+zuul/operator/basic/TAKEoperator.class
+zuul/operator/basic/GOoperator.class
+zuul/io/InConsole.class
+zuul/io/OutConsole.class
+zuul/operator/basic/DROPoperator.class
+zuul/operator/basic/HELPoperator.class
+zuul/io/InputManager.class
+zuul/operator/Commandexe.class
+zuul/Main.class
+zuul/io/OutputManager.class
+zuul/operator/basic/LOOKoperator.class
+zuul/operator/Command.class
+zuul/operator/Parser.class
+zuul/Room.class
+zuul/Game.class
+zuul/operator/basic/GIVEoperator.class

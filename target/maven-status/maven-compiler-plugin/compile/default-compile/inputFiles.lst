@@ -1,0 +1,17 @@
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/io/OutputManager.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/basic/TAKEoperator.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/basic/LOOKoperator.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/basic/GOoperator.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/Parser.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/Room.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/io/OutConsole.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/basic/HELPoperator.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/io/InConsole.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/io/InputManager.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/basic/DROPoperator.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/Commandexe.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/basic/GIVEoperator.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/Command.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/Main.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/Game.java
+/home/moose/NetBeansProjects/gb430-zuul-good/src/main/java/zuul/operator/basic/QUIToperator.java
